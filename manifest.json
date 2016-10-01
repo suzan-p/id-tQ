@@ -1,0 +1,26 @@
+{
+  "syntax_version": "1.0",
+  "type": "book",
+  "content_mime_type": "text/markdown",
+  "language": {
+    "dir": "ltr",
+    "name": "English",
+    "slug": "en"
+  },
+  "slug": "tq",
+  "name": "translationQuestions",
+  "versification_slug": "ufw",
+  "status": {
+    "pub_date": "2016-10-01",
+    "checking_entity": "Wycliffe Associates",
+    "translate_mode": "all",
+    "checks_performed": [],
+    "version": "3",
+    "checking_level": "3",
+    "comments": "",
+    "source_translations": [],
+    "contributors": [],
+    "license": "CC BY-SA"
+  },
+  "finished_chunks": []
+}
